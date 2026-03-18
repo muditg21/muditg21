@@ -45,7 +45,7 @@
 </p>
 
 ```ts
-🧑‍💻 Languages:     C++, JavaScript, TypeScript, SQL
+🧑‍💻 Languages:      C++, JavaScript, TypeScript, SQL
 🔧 Frameworks:     React.js, Node.js, Express.js
 🗄️ Databases:      MongoDB, MySQL
 🛠️ Tools:          Git, Docker, Postman, VS Code
